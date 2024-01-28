@@ -11,5 +11,4 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on web applications
 - 💬 Ask me about web application testing
 - 📫 How to reach me: https://jebakumar.me/
-- 😄 Pronouns: He/His/Him
 
