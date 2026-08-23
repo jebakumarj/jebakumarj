@@ -16,14 +16,9 @@ I enjoy creating clean frontend architectures, reusable UI components, automatio
 
 ## Featured Projects
 
-* **Angular Enterprise Dashboard**
-  Scalable Angular dashboard built with reusable components, structured data flow, and responsive UI patterns.
-
-* **AI-assisted Playwright Automation Framework**
-  Playwright-based automation framework enhanced with AI-assisted workflows to improve frontend testing efficiency.
-
-* **Reusable Angular Component Library**
-  Modular Angular component library focused on consistency, reusability, accessibility, and maintainability.
+* Thirukkural.xyz - Angular
+* MD Kanban (VS Code Extension)
+* Kaasu - An expense Manager for Android
 
 ## About Me
 
